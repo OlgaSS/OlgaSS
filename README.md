@@ -1,5 +1,5 @@
-### Hi, I'm Olya 👋
-## Frontend Developer 
+## Hi, I'm Olya 👋
+### Frontend Developer 
 
 - ❤️ In love with Vue and UX/UI
 - 🌱 I’m currently learning backend development

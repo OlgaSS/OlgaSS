@@ -1,5 +1,11 @@
-## Hi there 👋
+### Hi, I'm Olya 👋
+## Frontend Developer 
 
+- ❤️ In love with Vue and UX/UI
+- 🌱 I’m currently learning backend development
+- 🔭 I’m open to new challenges, interesting projects and opportunities to grow
+
+  
 <!--
 **OlgaSS/OlgaSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
